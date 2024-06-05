@@ -13,5 +13,5 @@
 ![](Online_Practice_Test_Platform\ScreenShots\SignUp.png)
 ![](Online_Practice_Test_Platform\ScreenShots\GoogleSignIn.png)
 ![](Online_Practice_Test_Platform\ScreenShots\Quiz.png)
-![](Online_Practice_Test_Platform\ScreenShots\Dashboard.png)
+![](https://drive.google.com/file/d/1qUqzOHJnZdClTXDyHZ4MQE3EtjTLz_H9/view?usp=drive_link)
 ![](Online_Practice_Test_Platform\ScreenShots\Review.png)
