@@ -1,0 +1,1357 @@
+[
+    {
+        "address": "10/7 Epping Road, Epping, NSW 2121",
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": true,
+        "auction_date": "Saturday 29 June",
+        "auction_time": "12:00 pm",
+        "price": "AUCTION (if not sold prior)",
+        "Agent Details": {
+            "name": "David Cale",
+            "rating": "5.0",
+            "reviews": "(24 reviews)",
+            "phone": "0419827588",
+            "address": "8/74 Rawson Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "51/10-14 Hazlewood Place, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Contact Agent",
+        "Agent Details": {
+            "name": "Rebecca Ying Li",
+            "rating": "5.0",
+            "reviews": "(52 reviews)",
+            "phone": "0406864588",
+            "address": "Ground Floor, 3 Carlingford Road, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "16/34-40 Edensor Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Just Listed!",
+        "Agent Details": {
+            "name": "Sarah Lin",
+            "rating": "5.0",
+            "reviews": "(3 reviews)",
+            "phone": "0401378606",
+            "address": "15 Bridge Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "210/18-22 Maida Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "$640,000-$650,000",
+        "Agent Details": {
+            "name": "Vincent Zhen Jin",
+            "rating": "5.0",
+            "reviews": "(No reviews yet)",
+            "phone": "0411780696",
+            "address": "Suite 2c3, Level 2, 25-33 Allen Street, WATERLOO, NSW 2017"
+        }
+    },
+    {
+        "address": "G04/7 Smith Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "For Sale - $998,000",
+        "Agent Details": {
+            "name": "Betty Ockerlander",
+            "rating": "4.9",
+            "reviews": "(89 reviews)",
+            "phone": "0408505080",
+            "address": "Ground Floor, 3 Carlingford Road, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "147a Midson Road, Epping, NSW 2121",
+        "property_type": "Duplex/Semi-detached",
+        "bedrooms": "6",
+        "bathrooms": "4",
+        "parking_spaces": "2",
+        "auction": false,
+        "price": "Just Listed",
+        "Agent Details": {
+            "name": "Christine He",
+            "rating": "5.0",
+            "reviews": "(45 reviews)",
+            "phone": "0409226126",
+            "address": "Shop 5, 182 Forest Road, HURSTVILLE, NSW 2220"
+        }
+    },
+    {
+        "address": "1609/22 Cambridge Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": true,
+        "auction_date": "Saturday 6 July",
+        "auction_time": "12:00 pm",
+        "price": "AUCTION UNLESS SOLD PRIOR| lUX 1 BEDROOM + STUDY",
+        "Agent Details": {
+            "name": "Inab Khan",
+            "rating": "5.0",
+            "reviews": "(3 reviews)",
+            "phone": "0433944266",
+            "address": "Shop 14/101 Waterloo Road, MACQUARIE PARK, NSW 2113"
+        }
+    },
+    {
+        "address": "203/28 Cliff Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Expression of Interest",
+        "Agent Details": {
+            "name": "Nancy Yang",
+            "rating": "5.0",
+            "reviews": "(53 reviews)",
+            "phone": "0412820398",
+            "address": "2/6-8 Old Castle Hill Road, CASTLE HILL, NSW 2154"
+        }
+    },
+    {
+        "address": "211/22 Cambridge Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": true,
+        "auction_date": "Saturday 8 June",
+        "auction_time": "1:00 pm",
+        "price": "UNDER OFFER BY INAB KHAN",
+        "Agent Details": {
+            "name": "Bruce - Li Tan",
+            "rating": "5.0",
+            "reviews": "(24 reviews)",
+            "phone": "0478886675",
+            "address": "Shop 14/101 Waterloo Road, MACQUARIE PARK, NSW 2113"
+        }
+    },
+    {
+        "address": "318/19 Epping Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Motivated to Sell!",
+        "Agent Details": {
+            "name": "Yating Wang (jenny)",
+            "rating": "5.0",
+            "reviews": "(14 reviews)",
+            "phone": "0416847500",
+            "address": "320-322 Pacific Hwy, LINDFIELD, NSW 2070"
+        }
+    },
+    {
+        "address": "25/2-4 Maida Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "$725,000 - $755,000",
+        "Agent Details": {
+            "name": "Robert Younis",
+            "rating": "5.0",
+            "reviews": "(61 reviews)",
+            "phone": "0402995597",
+            "address": "Suite 6, 734-736 Victoria Road, RYDE, NSW 2112"
+        }
+    },
+    {
+        "address": "20A Wycombe Street, Epping, NSW 2121",
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "parking_spaces": "2",
+        "auction": false,
+        "price": "Price Guide: $2,000,000-$2,200,000",
+        "Agent Details": {
+            "name": "Andy (Chen) Wang",
+            "rating": "5.0",
+            "reviews": "(No reviews yet)",
+            "phone": "0420348842",
+            "address": "Shop 3&4, 821 Pennant Hills Road, CARLINGFORD, NSW 2118"
+        }
+    },
+    {
+        "address": "402/20-24 Epping Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Contact Agent",
+        "Agent Details": {
+            "name": "Laura (King Chi) Tam",
+            "rating": "5.0",
+            "reviews": "(5 reviews)",
+            "phone": "0423468357",
+            "address": "170 Victoria Ave, CHATSWOOD, NSW 2067"
+        }
+    },
+    {
+        "address": "113/1 Cliff Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Contact Agent",
+        "Agent Details": {
+            "name": "Kris Yu",
+            "rating": "5.0",
+            "reviews": "(89 reviews)",
+            "phone": "0466713288",
+            "address": "15 Bridge Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "31/13 Carlingford Road, Epping, NSW 2121",
+        "property_type": "Unit",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": true,
+        "auction_date": "Saturday 29 June",
+        "auction_time": "9:45 am",
+        "price": "Price Guide $775,000",
+        "Agent Details": {
+            "name": "Teena Vaughan",
+            "rating": "5.0",
+            "reviews": "(148 reviews)",
+            "phone": "0424166252",
+            "address": "Ground Floor, 3 Carlingford Road, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "44 Somerset Street, Epping, NSW 2121",
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "2",
+        "parking_spaces": "2",
+        "auction": true,
+        "auction_date": "Saturday 29 June",
+        "auction_time": "2:15 pm",
+        "price": "Price Guide $1,900,000",
+        "Agent Details": {
+            "name": "Teena Vaughan",
+            "rating": "5.0",
+            "reviews": "(148 reviews)",
+            "phone": "0424166252",
+            "address": "Ground Floor, 3 Carlingford Road, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "201/31 Forest Grove, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "JUST LISTED!",
+        "Agent Details": {
+            "name": "Jay Jay Xu",
+            "rating": "5.0",
+            "reviews": "(14 reviews)",
+            "phone": "0477188999",
+            "address": "Shop 2/72, Archer Street, CHATSWOOD, NSW 2067"
+        }
+    },
+    {
+        "address": "308/28 Carlingford Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Contact Agent",
+        "Agent Details": {
+            "name": "Teresa Zeng",
+            "reviews": "(No reviews yet)",
+            "phone": "0434258799",
+            "address": "84 RIDER BLV, RHODES, NSW 2138"
+        }
+    },
+    {
+        "address": "701/26 Cambridge Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "For Sale",
+        "Agent Details": {
+            "name": "Kris Yu",
+            "rating": "5.0",
+            "reviews": "(89 reviews)",
+            "phone": "0466713288",
+            "address": "15 Bridge Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "503/22 Langston Place, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Contact Agent",
+        "Agent Details": {
+            "reviews": "(No reviews yet)",
+            "phone": "0431172959",
+            "address": "35D Burwood Road, BURWOOD, NSW 2134"
+        }
+    },
+    {
+        "address": "1503/26 Cambridge Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": null,
+        "auction": false,
+        "price": "$530,000 - $550,000",
+        "Agent Details": {
+            "name": "Sofia Tianzhuo Qu",
+            "rating": "5.0",
+            "reviews": "(24 reviews)",
+            "phone": "0433566688",
+            "address": "Shop 12/101 Waterloo Road, MACQUARIE PARK, NSW 2113"
+        }
+    },
+    {
+        "address": "79 Carlingford Road, Epping, NSW 2121",
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "3",
+        "parking_spaces": "2",
+        "auction": true,
+        "auction_date": "Saturday 15 June",
+        "auction_time": "11:15 am",
+        "price": "Auction:15th Jun at 11:15am(If Not Sold Prior)",
+        "Agent Details": {
+            "name": "Tracy Yap",
+            "rating": "5.0",
+            "reviews": "(56 reviews)",
+            "phone": "0412185032",
+            "address": "10 Oxford Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "1/10 Essex Street, Epping, NSW 2121",
+        "property_type": "Unit",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "For Sale: $690,000 - $710,000",
+        "Agent Details": {
+            "name": "Chris Khoudair",
+            "rating": "5.0",
+            "reviews": "(59 reviews)",
+            "phone": "0405122331",
+            "address": "100 Yarrara Road, PENNANT HILLS, NSW 2120"
+        }
+    },
+    {
+        "address": "701/12 Bridge Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "parking_spaces": "2",
+        "auction": false,
+        "price": "COMPLETION SOON",
+        "Agent Details": {
+            "phone": "1800989317",
+            "address": "Explore 4 properties in Ellery"
+        }
+    },
+    {
+        "address": "204/12 Bridge Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "COMPLETION SOON",
+        "Agent Details": {
+            "phone": "1800989317",
+            "address": "Explore 4 properties in Ellery"
+        }
+    },
+    {
+        "address": "306/12 Bridge Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "COMPLETION SOON",
+        "Agent Details": {
+            "phone": "0294132360",
+            "address": "Explore 4 properties in Ellery"
+        }
+    },
+    {
+        "address": "403/12 Bridge Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": null,
+        "auction": false,
+        "price": "COMPLETION SOON",
+        "Agent Details": {
+            "phone": "1800989317",
+            "address": "Explore 4 properties in Ellery"
+        }
+    },
+    {
+        "address": "37 Oxford Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "parking_spaces": "2",
+        "auction": false,
+        "price": "From $1,530,000 to $1,750,000",
+        "Agent Details": {
+            "phone": "0402763362",
+            "address": "Explore 4 properties in Cielo"
+        }
+    },
+    {
+        "address": "37 Oxford Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "From $975,000 to $1,385,000",
+        "Agent Details": {
+            "phone": "0402763362",
+            "address": "Explore 4 properties in Cielo"
+        }
+    },
+    {
+        "address": "37 Oxford Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "From $960,000 to $1,085,000",
+        "Agent Details": {
+            "phone": "0402763362",
+            "address": "Explore 4 properties in Cielo"
+        }
+    },
+    {
+        "address": "37 Oxford Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": null,
+        "auction": false,
+        "price": "From $660,000 to $785,000",
+        "Agent Details": {
+            "phone": "0402763362",
+            "address": "Explore 4 properties in Cielo"
+        }
+    },
+    {
+        "address": "11/32 Essex Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "$625,000 to $645,000",
+        "Agent Details": {
+            "name": "Margot Brattoli",
+            "rating": "5.0",
+            "reviews": "(2 reviews)",
+            "phone": "0416174420",
+            "address": "833 Pennant Hills Rd, CARLINGFORD, NSW 2118"
+        }
+    },
+    {
+        "address": "254/7 Epping Park Drive, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Contact Agent",
+        "Agent Details": {
+            "name": "Jason Wang",
+            "rating": "5.0",
+            "reviews": "(5 reviews)",
+            "phone": "0425707888",
+            "address": "24 Juliana Crescent, BAULKHAM HILLS, NSW 2153"
+        }
+    },
+    {
+        "address": "33 Ross Street, Epping, NSW 2121",
+        "property_type": "Duplex/Semi-detached",
+        "bedrooms": "5",
+        "bathrooms": "3",
+        "parking_spaces": "2",
+        "auction": true,
+        "auction_date": "Thursday 20 June",
+        "auction_time": "6:30 pm",
+        "price": "Auction Guide $2,000,000",
+        "Agent Details": {
+            "name": "Andy Lin",
+            "rating": "5.0",
+            "reviews": "(235 reviews)",
+            "phone": "0433433093",
+            "address": "15 Bridge Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "611/26 Cambridge Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Expressions of Interest",
+        "Agent Details": {
+            "name": "Wenting Shi",
+            "rating": "5.0",
+            "reviews": "(4 reviews)",
+            "phone": "0423557268",
+            "address": "10 Oxford Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "63 Midson Road, Epping, NSW 2121",
+        "property_type": "Duplex/Semi-detached",
+        "bedrooms": "5",
+        "bathrooms": "4",
+        "parking_spaces": "2",
+        "auction": false,
+        "price": "Contact Agent",
+        "Agent Details": {
+            "name": "Annie Zeng",
+            "rating": "5.0",
+            "reviews": "(66 reviews)",
+            "phone": "0416822502",
+            "address": "15 Bridge Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "Address available on request, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "CONTACT AGENT",
+        "Agent Details": {
+            "name": "Tim",
+            "rating": "5.0",
+            "reviews": "(119 reviews)",
+            "phone": "0414877365",
+            "address": "PO BOX 3021, RHODES, NSW 2138"
+        }
+    },
+    {
+        "address": "305/32 Cliff Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Price revised || Must sold",
+        "Agent Details": {
+            "name": "Zoe Yu",
+            "rating": "4.0",
+            "reviews": "(No reviews yet)",
+            "phone": "0451168287",
+            "address": "Shop 6A 106 Princes Hwy, ARNCLIFFE, NSW 2205"
+        }
+    },
+    {
+        "address": "103/18-22 Maida Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": true,
+        "auction_date": "Wednesday 12 June",
+        "auction_time": "6:30 pm",
+        "price": "Auction (if not sold prior)",
+        "Agent Details": {
+            "name": "Cayla Yeoh",
+            "rating": "5.0",
+            "reviews": "(9 reviews)",
+            "phone": "0492228889",
+            "address": "Ground Floor, 51 Rawson Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "1202/35 Oxford Street, Epping, NSW 2121",
+        "property_type": "Unit",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "$599,000",
+        "Agent Details": {
+            "name": "Danielle Jenkins",
+            "rating": "5.0",
+            "reviews": "(20 reviews)",
+            "phone": "0459341200",
+            "address": "1, 41 Rawson Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "33/42C Kent Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Contact Agent",
+        "Agent Details": {
+            "name": "Andy Haisheng Shi",
+            "rating": "5.0",
+            "reviews": "(45 reviews)",
+            "phone": "0433581815",
+            "address": "8A/1-5 Harrow Road, AUBURN, NSW 2144"
+        }
+    },
+    {
+        "address": "12/40-42 Stanley Road, Epping, NSW 2121",
+        "property_type": "Villa",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": true,
+        "auction_date": "Saturday 8 June",
+        "auction_time": "3:00 pm",
+        "price": "Auction This Saturday",
+        "Agent Details": {
+            "name": "Daniel Lee",
+            "rating": "5.0",
+            "reviews": "(87 reviews)",
+            "phone": "0403020462",
+            "address": "2 Bridge Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "11/717 Blaxland Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "$800,000 - $830,000",
+        "Agent Details": {
+            "name": "Gavin McCutcheon",
+            "reviews": "(No reviews yet)",
+            "phone": "0413686969",
+            "address": "134 Shaftsbury Road, EASTWOOD, NSW 2122"
+        }
+    },
+    {
+        "address": "152 Pennant Parade, Epping, NSW 2121",
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "3",
+        "parking_spaces": "2",
+        "auction": true,
+        "auction_date": "Saturday 8 June",
+        "auction_time": "10:15 am",
+        "price": "Auction: 8th June at 10.15am(Unless Sold Prior)",
+        "Agent Details": {
+            "name": "Tracy Yap",
+            "rating": "5.0",
+            "reviews": "(56 reviews)",
+            "phone": "0412185032",
+            "address": "10 Oxford Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "17A Cumberland Street, Epping, NSW 2121",
+        "property_type": "Duplex/Semi-detached",
+        "bedrooms": "5",
+        "bathrooms": "3",
+        "parking_spaces": "2",
+        "auction": true,
+        "auction_date": "Saturday 8 June",
+        "auction_time": "1:00 pm",
+        "price": "Auction this Sat 8th Jun 1pm",
+        "Agent Details": {
+            "name": "Andy Lin",
+            "rating": "5.0",
+            "reviews": "(235 reviews)",
+            "phone": "0433433093",
+            "address": "15 Bridge Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "25/9 Crandon Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Guide: $750,000",
+        "Agent Details": {
+            "name": "Vince Shilong Liu",
+            "rating": "5.0",
+            "reviews": "(24 reviews)",
+            "phone": "0451169566",
+            "address": "Shop 12/101 Waterloo Road, MACQUARIE PARK, NSW 2113"
+        }
+    },
+    {
+        "address": "55 Dunlop Street, Epping, NSW 2121",
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "3",
+        "parking_spaces": "4",
+        "auction": true,
+        "auction_date": "Sunday 23 June",
+        "auction_time": "2:00 pm",
+        "price": "Auction",
+        "Agent Details": {
+            "name": "Andy Lin",
+            "rating": "5.0",
+            "reviews": "(235 reviews)",
+            "phone": "0433433093",
+            "address": "15 Bridge Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "301/2 Chester Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": null,
+        "auction": false,
+        "price": "Contact Agent",
+        "Agent Details": {
+            "name": "Nancy Yang",
+            "rating": "5.0",
+            "reviews": "(53 reviews)",
+            "phone": "0412820398",
+            "address": "2/6-8 Old Castle Hill Road, CASTLE HILL, NSW 2154"
+        }
+    },
+    {
+        "address": "307/24 Carlingford Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "For Sale - Contact Agent",
+        "Agent Details": {
+            "name": "Yin Ho Wong",
+            "reviews": "(No reviews yet)",
+            "phone": "0451789376",
+            "address": "Suite 405, 161 Redfern Street, REDFERN, NSW 2016"
+        }
+    },
+    {
+        "address": "4/38 Cambridge Street, Epping, NSW 2121",
+        "property_type": "Unit",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "parking_spaces": null,
+        "auction": false,
+        "price": "FOR SALE $635,000 - $655,000",
+        "Agent Details": {
+            "name": "Peter Horozakis",
+            "rating": "5.0",
+            "reviews": "(5 reviews)",
+            "phone": "0402870202",
+            "address": "111G Midson Road (Entry via Boronia Avenue), EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "28B Carlingford Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Contact Agent",
+        "Agent Details": {
+            "name": "Fan Li",
+            "rating": "5.0",
+            "reviews": "(54 reviews)",
+            "phone": "0488666860",
+            "address": "C53/24-32 Lexington Drive, BELLA VISTA, NSW 2153"
+        }
+    },
+    {
+        "address": "10/1 Kandy Avenue, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "For Sale $680,000 - $720,000",
+        "Agent Details": {
+            "name": "Crystal Li",
+            "rating": "5.0",
+            "reviews": "(45 reviews)",
+            "phone": "0401784849",
+            "address": "30 High Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "570/5 Epping Park Drive, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "2",
+        "auction": true,
+        "auction_date": "Sunday 23 June",
+        "auction_time": "11:00 am",
+        "price": "Auction: 23rd June at 11am(Unless Sold Prior)",
+        "Agent Details": {
+            "name": "Mina Lee",
+            "rating": "5.0",
+            "reviews": "(7 reviews)",
+            "phone": "0478786221",
+            "address": "10 Oxford Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "402/32 - 34 Ferntree Place, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "$600k",
+        "Agent Details": {
+            "name": "BOWEN ZHENG",
+            "reviews": "(No reviews yet)",
+            "phone": "0425896898",
+            "address": "2607 / 393 Pitt St, SYDNEY, NSW 2000"
+        }
+    },
+    {
+        "address": "29 Hermington Street, Epping, NSW 2121",
+        "property_type": "Duplex/Semi-detached",
+        "bedrooms": "5",
+        "bathrooms": "3",
+        "parking_spaces": "1",
+        "auction": true,
+        "auction_date": "Saturday 22 June",
+        "auction_time": "11:15 am",
+        "price": "Auction",
+        "Agent Details": {
+            "name": "Juliet (Jiangmin) Chen",
+            "rating": "5.0",
+            "reviews": "(19 reviews)",
+            "phone": "0408997997",
+            "address": "G01/35 Oxford Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "25/43-45 Kent Street, Epping, NSW 2121",
+        "property_type": "Retirement Living",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": null,
+        "auction": false,
+        "price": "Priced from $245,000*",
+        "Agent Details": {
+            "phone": "0478668149",
+            "address": "Explore 3 properties in Epping Manor"
+        }
+    },
+    {
+        "address": "27/43-45 Kent Street, Epping, NSW 2121",
+        "property_type": "Retirement Living",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": null,
+        "auction": false,
+        "price": "Priced from $270,000*",
+        "Agent Details": {
+            "phone": "0478668149",
+            "address": "Explore 3 properties in Epping Manor"
+        }
+    },
+    {
+        "address": "38/43-45 Kent Street, Epping, NSW 2121",
+        "property_type": "Retirement Living",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": null,
+        "auction": false,
+        "price": "Priced from $290,000*",
+        "Agent Details": {
+            "phone": "0478668149",
+            "address": "Explore 3 properties in Epping Manor"
+        }
+    },
+    {
+        "address": "218/2-8 Hazlewood Pl, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Under Contract",
+        "Agent Details": {
+            "name": "Evelyn Rong",
+            "reviews": "(No reviews yet)",
+            "phone": "0450786981",
+            "address": "Suite 1,Level 1,132-134 Burwood Road, BURWOOD, NSW 2134"
+        }
+    },
+    {
+        "address": "12/713-715 Blaxland Road, Epping, NSW 2121",
+        "property_type": "Unit",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": true,
+        "auction_date": "Saturday 22 June",
+        "auction_time": "11:00 am",
+        "price": "AUCTION (if not sold prior)",
+        "Agent Details": {
+            "name": "David Cale",
+            "rating": "5.0",
+            "reviews": "(24 reviews)",
+            "phone": "0419827588",
+            "address": "8/74 Rawson Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "1103/35 Oxford Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": true,
+        "auction_date": "Wednesday 12 June",
+        "auction_time": "6:30 pm",
+        "price": "Auction (if not sold prior)",
+        "Agent Details": {
+            "name": "Jimmy Kang",
+            "rating": "5.0",
+            "reviews": "(10 reviews)",
+            "phone": "0452424911",
+            "address": "Ground Floor, 51 Rawson Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "4/23-25 Forest Grove, Epping, NSW 2121",
+        "property_type": "Unit",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Contact Agent",
+        "Agent Details": {
+            "name": "Ryan Adderley",
+            "reviews": "(No reviews yet)",
+            "phone": "0401541021",
+            "address": "New South Head Road, DOUBLE BAY, NSW 2028"
+        }
+    },
+    {
+        "address": "318/18-20 Epping Park Drive, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Contact Agent",
+        "Agent Details": {
+            "name": "Jenny (Qi) Zhang",
+            "rating": "5.0",
+            "reviews": "(69 reviews)",
+            "phone": "0425558882",
+            "address": "Shop 3&4, 821 Pennant Hills Road, CARLINGFORD, NSW 2118"
+        }
+    },
+    {
+        "address": "202/3 Hazlewood Place, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "For Sale $530k - $550k",
+        "Agent Details": {
+            "name": "Cayla Yeoh",
+            "rating": "5.0",
+            "reviews": "(9 reviews)",
+            "phone": "0492228889",
+            "address": "Ground Floor, 51 Rawson Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "521/18 Epping Park Drive, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "2",
+        "auction": false,
+        "price": "$780,000-$830,000",
+        "Agent Details": {
+            "name": "Allison Mifsud",
+            "rating": "5.0",
+            "reviews": "(63 reviews)",
+            "phone": "0405138408",
+            "address": "1, 41 Rawson Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "26 Surrey Street, Epping, NSW 2121",
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "parking_spaces": "2",
+        "auction": true,
+        "auction_date": "Thursday 6 June",
+        "auction_time": "6:30 pm",
+        "price": "Auction 06/06/24 at 6:30pm On Site",
+        "Agent Details": {
+            "name": "Allison Mifsud",
+            "rating": "5.0",
+            "reviews": "(63 reviews)",
+            "phone": "0405138408",
+            "address": "1, 41 Rawson Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "24C Dorset Street, Epping, NSW 2121",
+        "property_type": "Residential Land",
+        "bedrooms": null,
+        "bathrooms": null,
+        "parking_spaces": null,
+        "auction": false,
+        "price": "Under negotiation",
+        "Agent Details": {
+            "name": "Betty Ockerlander",
+            "rating": "4.9",
+            "reviews": "(89 reviews)",
+            "phone": "0408505080",
+            "address": "Ground Floor, 3 Carlingford Road, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "28 - 30 Cliff Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Limited Brand New Apartments - Final Opportunity",
+        "Agent Details": {
+            "reviews": "(No reviews yet)",
+            "phone": "0451369188",
+            "address": "Suite 312, 480 Pacific Highway, ST LEONARDS, NSW 2065"
+        }
+    },
+    {
+        "address": "308/26 Cambridge Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Just Listed!",
+        "Agent Details": {
+            "name": "Kris Yu",
+            "rating": "5.0",
+            "reviews": "(89 reviews)",
+            "phone": "0466713288",
+            "address": "15 Bridge Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "9 Raymond Place, Epping, NSW 2121",
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "3",
+        "parking_spaces": "3",
+        "auction": true,
+        "auction_date": "Saturday 29 June",
+        "auction_time": "11:30 am",
+        "price": "Auction unless sold prior",
+        "Agent Details": {
+            "name": "BOWEN ZHENG",
+            "reviews": "(No reviews yet)",
+            "phone": "0425896898",
+            "address": "2607 / 393 Pitt St, SYDNEY, NSW 2000"
+        }
+    },
+    {
+        "address": "182/29-31 Cliff Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Expression of Interest",
+        "Agent Details": {
+            "name": "Nancy Yang",
+            "rating": "5.0",
+            "reviews": "(53 reviews)",
+            "phone": "0412820398",
+            "address": "2/6-8 Old Castle Hill Road, CASTLE HILL, NSW 2154"
+        }
+    },
+    {
+        "address": "7/32 Essex Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "For Sale $820,000",
+        "Agent Details": {
+            "name": "David Middleton",
+            "rating": "5.0",
+            "reviews": "(23 reviews)",
+            "phone": "0422729058",
+            "address": "Ground Floor, 3 Carlingford Road, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "G03/24 Carlingford road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Price Guide: 1.03m-1.05m",
+        "Agent Details": {
+            "name": "Cooper WANG",
+            "rating": "5.0",
+            "reviews": "(3 reviews)",
+            "phone": "0403738618",
+            "address": "level 9, 123 Epping Road, MACQUARIE PARK, NSW 2113"
+        }
+    },
+    {
+        "address": "19/3-5 Kandy Avenue, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Under Offer",
+        "Agent Details": {
+            "name": "Stephen Jackson",
+            "reviews": "(No reviews yet)",
+            "phone": "0417211330",
+            "address": "5 Church Street, RYDE, NSW 2112"
+        }
+    },
+    {
+        "address": "1808/8 Chambers Court, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "parking_spaces": "2",
+        "auction": false,
+        "price": "Langston Lux-3 Bedroom with Panoramic City View",
+        "Agent Details": {
+            "name": "Bruce - Li Tan",
+            "rating": "5.0",
+            "reviews": "(24 reviews)",
+            "phone": "0478886675",
+            "address": "Shop 14/101 Waterloo Road, MACQUARIE PARK, NSW 2113"
+        }
+    },
+    {
+        "address": "2004/26 Cambridge Street, Epping, NSW 2121",
+        "property_type": "Studio",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": null,
+        "auction": false,
+        "price": "For Sale | $550,000 - $600,000",
+        "Agent Details": {
+            "name": "Kevin Wong",
+            "rating": "5.0",
+            "reviews": "(32 reviews)",
+            "phone": "0423823477",
+            "address": "Ground Floor, 51 Rawson Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "902/38  Oxford Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "$1,100,000",
+        "Agent Details": {
+            "name": "Hui (Jeffery) JIN",
+            "reviews": "(No reviews yet)",
+            "phone": "0449880619",
+            "address": "Suite 101, Level 1, 187 Thomas Street, HAYMARKET, NSW 2000"
+        }
+    },
+    {
+        "address": "G02/3  Forest Grove, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "parking_spaces": "1",
+        "auction": false,
+        "price": "Price Guide $550,000-$600,000",
+        "Agent Details": {
+            "name": "James Lesaguis",
+            "rating": "5.0",
+            "reviews": "(11 reviews)",
+            "phone": "0424799285",
+            "address": "848 King Georges Road, SOUTH HURSTVILLE, NSW 2221"
+        }
+    },
+    {
+        "address": "Address available on request, Epping, NSW 2121",
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "3",
+        "parking_spaces": "2",
+        "auction": false,
+        "price": "Auction Guide $3,800,000",
+        "Agent Details": {
+            "name": "Tim Cale",
+            "rating": "4.9",
+            "reviews": "(10 reviews)",
+            "phone": "0438827588",
+            "address": "8/74 Rawson Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "101 Essex Street, Epping, NSW 2121",
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "parking_spaces": "4",
+        "auction": false,
+        "price": "For Sale Contact Agent",
+        "Agent Details": {
+            "name": "Allison Mifsud",
+            "rating": "5.0",
+            "reviews": "(63 reviews)",
+            "phone": "0405138408",
+            "address": "1, 41 Rawson Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "2005/22 Cambridge Street, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "parking_spaces": "2",
+        "auction": true,
+        "auction_date": "Saturday 29 June",
+        "auction_time": "3:00 pm",
+        "price": "Auction Guide $1.3 MIL UNLESS SOLD PRIOR",
+        "Agent Details": {
+            "name": "Inab Khan",
+            "rating": "5.0",
+            "reviews": "(3 reviews)",
+            "phone": "0433944266",
+            "address": "Shop 14/101 Waterloo Road, MACQUARIE PARK, NSW 2113"
+        }
+    },
+    {
+        "address": "581/29-31 Cliff Road, Epping, NSW 2121",
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "parking_spaces": "2",
+        "auction": false,
+        "price": "Price Range $860,000 to $880,000",
+        "Agent Details": {
+            "name": "Yinzhi (Terry) HU",
+            "reviews": "(No reviews yet)",
+            "phone": "0411372098",
+            "address": "Suite 101, Level 1, 187 Thomas Street, HAYMARKET, NSW 2000"
+        }
+    },
+    {
+        "address": "207A Midson Road, Epping, NSW 2121",
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "parking_spaces": "2",
+        "auction": true,
+        "auction_date": "Saturday 29 June",
+        "auction_time": "2:00 pm",
+        "price": "Auction 29th June 2 PM Onsite",
+        "Agent Details": {
+            "name": "Tian Hong",
+            "rating": "4.9",
+            "reviews": "(72 reviews)",
+            "phone": "0451977781",
+            "address": "Ground Floor, 51 Rawson Street, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "87 Oxford Street, Epping, NSW 2121",
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "parking_spaces": "2",
+        "auction": true,
+        "auction_date": "Saturday 22 June",
+        "auction_time": "1:30 pm",
+        "price": "Price Guide $2,500,000",
+        "Agent Details": {
+            "name": "Teena Vaughan",
+            "rating": "5.0",
+            "reviews": "(148 reviews)",
+            "phone": "0424166252",
+            "address": "Ground Floor, 3 Carlingford Road, EPPING, NSW 2121"
+        }
+    },
+    {
+        "address": "2A Haywood Street, Epping, NSW 2121",
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "3",
+        "parking_spaces": "4",
+        "auction": false,
+        "price": "Guide $3,900,000",
+        "Agent Details": {
+            "name": "Thomas Perram",
+            "rating": "5.0",
+            "reviews": "(86 reviews)",
+            "phone": "0279062925",
+            "address": "19 Sorrell Street, PARRAMATTA, NSW 2150"
+        }
+    }
+]
